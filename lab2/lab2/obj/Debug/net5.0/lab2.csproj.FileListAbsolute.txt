@@ -1,0 +1,15 @@
+D:\study\maga\paralel\lab2C#\lab2\lab2\bin\Debug\net5.0\lab2.exe
+D:\study\maga\paralel\lab2C#\lab2\lab2\bin\Debug\net5.0\lab2.deps.json
+D:\study\maga\paralel\lab2C#\lab2\lab2\bin\Debug\net5.0\lab2.runtimeconfig.json
+D:\study\maga\paralel\lab2C#\lab2\lab2\bin\Debug\net5.0\lab2.runtimeconfig.dev.json
+D:\study\maga\paralel\lab2C#\lab2\lab2\bin\Debug\net5.0\lab2.dll
+D:\study\maga\paralel\lab2C#\lab2\lab2\bin\Debug\net5.0\lab2.pdb
+D:\study\maga\paralel\lab2C#\lab2\lab2\obj\Debug\net5.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\maga\paralel\lab2C#\lab2\lab2\obj\Debug\net5.0\lab2.AssemblyInfoInputs.cache
+D:\study\maga\paralel\lab2C#\lab2\lab2\obj\Debug\net5.0\lab2.AssemblyInfo.cs
+D:\study\maga\paralel\lab2C#\lab2\lab2\obj\Debug\net5.0\lab2.csproj.CoreCompileInputs.cache
+D:\study\maga\paralel\lab2C#\lab2\lab2\obj\Debug\net5.0\lab2.dll
+D:\study\maga\paralel\lab2C#\lab2\lab2\obj\Debug\net5.0\refint\lab2.dll
+D:\study\maga\paralel\lab2C#\lab2\lab2\obj\Debug\net5.0\lab2.pdb
+D:\study\maga\paralel\lab2C#\lab2\lab2\obj\Debug\net5.0\lab2.genruntimeconfig.cache
+D:\study\maga\paralel\lab2C#\lab2\lab2\obj\Debug\net5.0\ref\lab2.dll
